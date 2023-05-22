@@ -1,0 +1,24 @@
+*{
+    font-family: georgia;
+}
+#prawy{
+    background-color: tła #C75B39;
+    color: white;
+    padding: 10px;
+    text-align: center;
+
+}
+#stopa{
+    background-color: tła #C75B39;
+    color: white;
+    padding: 10px;
+    text-align: center;
+
+}
+#lewy{
+    background-color: #FF8A65;
+    width: 25%;
+    height: 500 px;
+    
+
+}

@@ -1,0 +1,27 @@
+*{
+    font-family: helvetica;
+}
+body{
+    background-color: blueviolet;
+    text-align: center;
+    color: white;
+}
+#gora{
+    background-color: rgb(162, 8, 201);
+    text-align: center;
+    color: white;
+    height: 50px;
+}
+.aha{
+    background-color: rgb(162, 8, 201);
+    color: white;
+}
+.aha1{
+    background-color: rgb(162, 8, 201);
+    color: white;
+}
+#stopa{
+    background-color: rgb(162, 8, 201);
+    color: white;
+    height: 50px;
+}

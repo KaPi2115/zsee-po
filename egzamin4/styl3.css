@@ -1,0 +1,56 @@
+* {
+    font-family: tahoma;
+}
+
+#baner_lewy {
+    background-color: #7da453;
+    color: white;
+    height: 120px;
+    width: 40%;
+    float: left;
+}
+
+#baner_srodkowy {
+    background-color: #7da453;
+    color: white;
+    height: 120px;
+    width: 40%;
+    float: left;
+    
+}
+
+#baner_prawy {
+    background-color: #7da453;
+    color: white;
+    height: 120px;
+    width: 20%;
+    float: right;
+}
+
+#main {
+    background-color: #aed581;
+    width: 200px;
+    height: 100px;
+    margin: 7px;
+    border: 1px solid #7da453;
+    
+}
+
+#main:hover {
+    background-color: #7da453;
+    color: white;
+}
+
+#stopka {
+    background-color: #7da453;
+    color: white;
+    padding: 5px;
+}
+
+h5 {
+    text-align: center;
+}
+
+form{
+    padding-top: 50px;
+}

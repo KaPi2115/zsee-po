@@ -1,0 +1,9 @@
+Próba napisania wlasnego algorytmu 
+1.Metoda połowienia przedziału
+ 
+
+
+Metoda Połowienia Przedziałów służy do znajdowania miejsca zerowego pewnej 
+ciągłej funkcji f ograniczonej do pewnego przedziału [a, b].
+Innymi słowy szukana jest taka wartość x, aby f(x) = 0. Algorytm
+ polega na wyliczeniu wartości funkcji na końcach przedziałów a i b.

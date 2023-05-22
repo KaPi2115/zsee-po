@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+    <link rel="stylesheet" href="index1.css">
+    <script>
+        $(document).ready(function (){
+            $("#gora").click(function (){
+                $("#okej").slideDown(100);
+                $("#hide").show();
+
+            });
+        });
+
+        $(document).ready(function (){
+            $("#hide").click(function (){
+                $("#okej").slideUp(100);
+                $("#hide").hide();
+
+            });
+        });
+
+    </script>
+    <style>
+
+        *{
+            background-color: rgb(0, 0, 0);
+            text-align: center;
+
+        }
+        #gora{
+            background-color: rgb(160, 8, 160);
+            color: white;
+            height: 40px;
+        }
+        #okej{
+            background-color: rgb(90, 2, 90);
+            display: none;
+            height: 250px;
+            color: white;
+        }
+        #hide{
+            display: none;
+            background-color: white;
+            color: black;
+        }
+    </style>
+
+    <div id="gora">coś jest ukryte </div>
+    <div id="okej">
+        ajdjsjdcxzkcjsahxcjxhzcjsvhajvcjxvzjhvscjvjdczxcs
+        sadsaijhdsajdsdjsahdjahsjlxjhcjkshajdhsjkahjkhjas
+        sdokcpoapsoplpzmxkcnksanxjichsugauxhcbdjgdaxjhbhx
+        sdjhasjcjxzjchjhsjahjhcjxhzjhcjhsjhajhjdhsjhdjahd
+        odopsodpoposdjhcxzcghshgaghdtwtrtartstdrtxczxbcas
+        xmvnjsabxhgcvahgsfdjaksgcxiuczcxivuyoiuyasdfglkjh
+        lkjhgfdsaqwertyuioplkjhgfdsazxcvbnmlkjikolpikjmnl
+    </div>
+    <button id="hide">hide</button>
+    
+</head>
+<body>
+ 
+    
+</body>
+</html>
