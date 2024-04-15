@@ -5,5 +5,5 @@ function pokazInfo(callback){
 }
 
 pokazInfo(function(){
-    console.log("callbacko - wywołany");
+    console.log("callback - wywołany");
 });
